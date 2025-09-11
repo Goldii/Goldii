@@ -35,7 +35,7 @@
 | ------- | ----------- | ---- |
 | 🎮 **Break the Code** | 4-digit code-breaking mobile game with animations & timed challenges. | Flutter, Dart, Flutter Animate |
 | 💳 **JaPay** *(in dev)* | Jamaican-focused bill payment & utility reminder app. | Flutter, Firebase |
-| 📅 **Cosmo Lesson Planner***(in dev)* | Lesson scheduling web app for educators. | React, Tailwind |
+| 📅 **Cosmo Lesson Planner** *(in dev)* | Lesson scheduling web app for educators. | React, Tailwind |
 | ✈️ **TracTravel** | Mobile app for travel planning & itinerary management. | Flutter |
 | 🛍 **Tiffancess Kloset** | E-commerce fashion web app. | HTML, CSS, PHP (XAMPP) |
 

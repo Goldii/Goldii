@@ -3,7 +3,8 @@
 <!-- Tip: Use a wide banner showing your dev style or brand -->
 
 <h1 align="center">Hi 👋, I'm Kymarley Millwood</h1>
-<h3 align="center">Software Engineer • Mobile Game Dev • Creative Technologist</h3>
+<h3 align="center">Software Engineer • Full-Stack Developer • Mobile Game Dev • Creative Technologist</h3>
+
 
 ---
 

@@ -39,7 +39,7 @@
 | ✈️ **TracTravel** | Mobile app for travel planning & itinerary management. | Flutter |
 | 🛍 **Tiffancess Kloset** | E-commerce fashion web app. | HTML, CSS, PHP (XAMPP) |
 
-> 🖼 **[View More Projects →](https://github.com/Kymarley?tab=repositories)**
+> 🖼 **[View More Projects →](https://github.com/Goldii?tab=repositories)**
 
 ---
 
